@@ -1,8 +1,8 @@
 # ⚡ SnapBolt 開発公式 (ぽろん)
 
 <p align="center">
-  <a href="https://snapbolt-license.snapbolt.workers.dev/r/8Y9PHK">
-    <img src="https://snapbolt-license.snapbolt.workers.dev/assets/ogp.png" alt="SnapBolt" width="760">
+  <a href="https://snapbolt.dev/r/8Y9PHK">
+    <img src="https://snapbolt.dev/assets/ogp.png" alt="SnapBolt" width="760">
   </a>
 </p>
 
@@ -15,9 +15,9 @@
 <p align="center">
   <a href="https://apps.microsoft.com/detail/9MTBJHKWKM43?hl=ja-jp&gl=JP"><b>🏪 Microsoft Store (Official · Zero Warnings)</b></a>
   &nbsp;|&nbsp;
-  <a href="https://snapbolt-license.snapbolt.workers.dev/r/8Y9PHK"><b>🇯🇵 公式サイト (14日間Pro無料特典)</b></a>
+  <a href="https://snapbolt.dev/r/8Y9PHK"><b>🇯🇵 公式サイト (14日間Pro無料特典)</b></a>
   &nbsp;|&nbsp;
-  <a href="https://snapbolt-license.snapbolt.workers.dev/r/8Y9PHK?lang=en"><b>🌐 Official Website (English)</b></a>
+  <a href="https://snapbolt.dev/r/8Y9PHK?lang=en"><b>🌐 Official Website (English)</b></a>
   &nbsp;|&nbsp;
   <a href="https://github.com/poron2356-a11y/SnapBolt/releases/latest"><b>📦 GitHub Releases (v2.4.0)</b></a>
 </p>
@@ -32,7 +32,7 @@
 
 ### 📥 Quick Install / ダウンロード
 - **🏪 Microsoft Store (Recommended · Digitally Signed)**: [https://apps.microsoft.com/detail/9MTBJHKWKM43?hl=ja-jp&gl=JP](https://apps.microsoft.com/detail/9MTBJHKWKM43?hl=ja-jp&gl=JP) (`winget install 9MTBJHKWKM43`)
-- **🎁 Official Website & 14-Day Pro Trial**: [https://snapbolt-license.snapbolt.workers.dev/r/8Y9PHK](https://snapbolt-license.snapbolt.workers.dev/r/8Y9PHK)
+- **🎁 Official Website & 14-Day Pro Trial**: [https://snapbolt.dev/r/8Y9PHK](https://snapbolt.dev/r/8Y9PHK)
 - **💻 Scoop**:
   ```powershell
   scoop bucket add snapbolt https://github.com/poron2356-a11y/scoop-snapbolt
