@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://apps.microsoft.com/detail/9MTBJHKWKM43?hl=ja-jp&gl=JP"><img src="https://img.shields.io/badge/Microsoft_Store-Official_Certified_App-0078D4?style=for-the-badge&logo=microsoft" alt="Get it from Microsoft Store"></a>
   <a href="https://forest.watch.impress.co.jp/docs/digest/2150874.html"><img src="https://img.shields.io/badge/Featured_on-窓の杜_(Mado_no_Mori)-10b981?style=for-the-badge" alt="Featured on 窓の杜"></a>
-  <a href="https://github.com/poron2356-a11y/SnapBolt/releases/latest"><img src="https://img.shields.io/badge/Version-v2.4.0-3b82f6?style=for-the-badge" alt="Version v2.4.0"></a>
+  <a href="https://github.com/poron2356-a11y/SnapBolt/releases/latest"><img src="https://img.shields.io/badge/Version-v2.4.1-3b82f6?style=for-the-badge" alt="Version v2.4.1"></a>
 </p>
 
 <p align="center">
